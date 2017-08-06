@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Documentation
-menu: true
-order: 5
+menu: false
 redirect_from:
   - /docs/latest/
   - /docs/
