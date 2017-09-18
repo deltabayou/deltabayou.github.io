@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Store
+title: Books
 menu: true
 order: 2
 ---
