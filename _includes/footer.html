@@ -1,9 +1,10 @@
-<footer>
-  <hr/>
-  {% if site.copyright.size > 0 %}
-    {{ site.copyright | markdownify }}
-  {% endif %}
-  <p>
-    <code>Built by <a href="http://francoalvarado.com">Franco A. Alvarado</a> and powered by <a href="https://qwtel.com/hydejack/">Hydejack</a> v<span id="_version">6.5.0</span></code>
-  </p>
+<footer class="footer">
+    <div class="container">
+
+        <p class="text-center">
+            {{ site.title }} {{ site.time | date: '%Y' }} |
+            Powered by <a href="https://github.com/aksakalli/jekyll-doc-theme">Jekyll Doc Theme</a>
+        </p>
+        <!-- <p class="text-muted">Place sticky footer content here.</p> -->
+    </div>
 </footer>

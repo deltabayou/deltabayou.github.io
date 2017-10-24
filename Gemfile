@@ -1,13 +1,18 @@
 source "https://rubygems.org"
+ruby RUBY_VERSION
 
-gem "jekyll", "~> 3.5"
+gem "jekyll", "3.4.3"
 
-gem "jekyll-default-layout", "~> 0.1"
-gem "jekyll-feed", "~> 0.9"
-gem "jekyll-optional-front-matter", "~> 0.2"
-gem "jekyll-paginate", "~> 1.1"
-gem "jekyll-redirect-from", "~> 0.12"
-gem "jekyll-relative-links", "~> 0.4"
-gem "jekyll-sitemap", "~> 1.0"
+# to use GitHub Pages
+# gem "github-pages", group: :jekyll_plugins
 
-gem "classifier-reborn", "~> 2.1"
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+   gem "jekyll-feed"
+   gem "jekyll-sitemap"
+   gem "jekyll-redirect-from"
+   gem "jekyll-seo-tag"
+end
+
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
