@@ -1,37 +1,37 @@
 ---
 layout: default
-permalink: /books
+permalink: /books/index.html
 ---
 
 <div class="header-container jumbotron">
     <div class="container">
-        <h1>Jekyll Template for Project Websites</h1>
-        <p>Simple and modern design for publishing blog posts, documentation and many more things for your project.
-          You can now clone and start to create a website for your project like this one.</p>
-        <p><a class="btn btn-primary btn-lg" href="{{ "/docs/home/" | prepend: site.baseurl }}" role="button">Learn more</a></p>
+        <h1 style="text-align: center; font-family: 'Sacramento', cursive; font-size: 8.5em;">Scarlett Larouge</h1>
+        <p style="text-align: center;">Tagline here</p>
+        <!--<p><a class="btn btn-primary btn-lg" href="{{ "/docs/home/" | prepend: site.baseurl }}" role="button">Learn more</a></p>-->
     </div>
 </div>
 
+{% for item in site.books %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.excerpt }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}
+
+
+
+<!--
 
 <div class="container">
 
     <div class="row">
         <div class="col-md-6">
-            <h2 class="header-light regular-pad">What is Jekyll?</h2>
+            <h2 class="header-light regular-pad">About</h2>
             <blockquote>
-              <p>Jekyll is a simple, blog-aware, static site generator. It takes a template
-              directory containing raw text files in various formats, runs it through
-              a converter (like <a href="https://daringfireball.net/projects/markdown/">Markdown</a>)
-              and our <a href="https://github.com/Shopify/liquid/wiki">Liquid</a> renderer, and
-              spits out a complete, ready-to-publish static website suitable
-              for serving with your favorite web server. Jekyll also happens to be the engine
-              behind <a href="https://pages.github.com">GitHub Pages</a>, which means you can use Jekyll
-              to host your project’s page, blog, or website from GitHub’s servers <strong>for
-              free</strong>.</p>
+              <p>Scarlett Larouge is a Southern belle interested in erotica, mystery, historical fiction, paranormal, and romance. She enjoys traveling, exploring abandoned places, and collecting art and secrets. When not working on her writing, she can be found shamelessly flirting with friends, acquaintances, and handsome strangers.</p>
             </blockquote>
         </div>
         <div class="col-md-6 text-center">
-            <img src="img/authorImg.png" alt="" class="img-responsive">
+            <img src="img/authorImg.png" alt="" class="img-responsive authorImg">
         </div>
     </div>
 
@@ -61,3 +61,6 @@ permalink: /books
 
 
 </div>
+
+
+-->

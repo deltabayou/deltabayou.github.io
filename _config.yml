@@ -1,6 +1,6 @@
 # Site settings
 title: Scarlett Larouge
-email: your-email@domain.com
+email: scarlett.la.rouge@gmail.com
 description: >
   This is a thing or something
   
@@ -33,24 +33,21 @@ exclude:
 timezone: Europe/Berlin
 defaults:
 - scope:
-    path: _posts
-    type: posts
+    path: "blog"
+    type: "posts"
   values:
-    layout: post
-    sectionid: blog
+    layout: "post"
+    sectionid: "blog"
+    roll: "blog"
+- scope: 
+    path: _books
+  values: 
+    layout: page
 
-- scope:
-    path: _docs
-    type: docs
-  values:
-    layout: docs
-    sectionid: docs
-    seo:
-      type: "WebPage"
 
 collections:
-  docs:
-    permalink: /:collection/:path/
+  books:
+    permalink: /:path
     output: true
   posts:
     permalink: /blog/:year/:month/:day/:title/
