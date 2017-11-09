@@ -1,10 +1,10 @@
 ---
 ---
 [
-{% for section in site.data.docs %}
-  {% for item in section.docs %}
-    {% assign item_url = item | prepend:"/docs/" | append:"/" %}
-    {% assign p = site.docs | where:"url", item_url | first %}
+{% for section in site.data.books %}
+  {% for item in section.books %}
+    {% assign item_url = item | prepend:"/books/" | append:"/" %}
+    {% assign p = site.books | where:"url", item_url | first %}
     {
       "title": "{{ p.title }}",
       "url": "{{ p.url | prepend: site.baseurl }}"

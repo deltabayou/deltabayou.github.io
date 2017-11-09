@@ -1,14 +1,16 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Scarlett Larouge
+email: scarlett.la.rouge@gmail.com 
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Bing bong sing along, your team's Al Gore 'cause your views are wrong
+  
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+# baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
+# url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
+instagram_address: https://www.instagram.com/scarlett_larouge/
+smashwords_account: https://www.smashwords.com/profile/view/ScarlettLarouge
+amazon_account: https://www.amazon.com/Scarlett-Larouge/e/B075FTCJWQ/
+# git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
@@ -29,7 +31,7 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: Europe/Berlin
+timezone: North America/Miami
 defaults:
 - scope:
     path: _posts
@@ -39,16 +41,16 @@ defaults:
     sectionid: blog
 
 - scope:
-    path: _docs
-    type: docs
+    path: _books
+    type: books
   values:
-    layout: docs
-    sectionid: docs
+    layout: books
+    sectionid: books
     seo:
       type: "WebPage"
 
 collections:
-  docs:
+  books:
     permalink: /:collection/:path/
     output: true
   posts:
