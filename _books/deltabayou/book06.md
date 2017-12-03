@@ -1,7 +1,7 @@
 ---
-title:  Delta Bayou and the Whiff of Danger
-permalink: /books/deltabayou/whiffofdanger/
-imgpath: /img/DeltaBayouWhiffofDanger-Cover.jpg
+title:  Delta Bayou and the Scent of Danger
+permalink: /books/deltabayou/scentofdanger/
+imgpath: /img/DeltaBayouScentofDanger-Cover.jpg
 series: deltabayou
 status: Forthcoming
 ---
