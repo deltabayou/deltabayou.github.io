@@ -3,6 +3,7 @@ layout: post
 title:  "The Stag King"
 date:   2018-01-04 09:41:09
 author: Scarlett Larouge
+tag: Free short
 ---
 
 It was the sound of splashing water that called him to the glade. He heard it echoing off the rocks of the stream as he hunted in the yellow dappled light of the woods. His hunt so far having been fruitless, he turned keenly toward the sound, sharp eyes peering through the brush, ears straining, sifting through the sighs of the leaves and the stalks of grass that bent in the wind. 
