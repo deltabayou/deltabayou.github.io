@@ -6,6 +6,8 @@ author: Scarlett Larouge
 tag: Free short
 ---
 
+![The Stag King](/img/stagking.jpg)
+
 It was the sound of splashing water that called him to the glade. He heard it echoing off the rocks of the stream as he hunted in the yellow dappled light of the woods. His hunt so far having been fruitless, he turned keenly toward the sound, sharp eyes peering through the brush, ears straining, sifting through the sighs of the leaves and the stalks of grass that bent in the wind. 
 
 He crept forward, muscles tense, and silently notched his arrow and drew his bow. His feet made no sound as he padded over the damp soil, creeping through the bush. He peered around the branches, ready to take aim at the creature in the stream. That was when he saw her.
