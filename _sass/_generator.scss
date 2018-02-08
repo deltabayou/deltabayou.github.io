@@ -1,0 +1,53 @@
+$main: #d8aaed;
+%centeredObj {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+%boxshadow {
+   -webkit-box-shadow: 3px 3px 0 0 rgba(0,0,0,0.8) ;
+    box-shadow: 3px 3px 0 0 rgba(0,0,0,0.8) ;
+}
+
+#personalityGenerator  {
+  margin: 0 auto;
+  @extend %centeredObj;  
+  div {
+    float:left;
+    margin: 20px;
+    background-color: complement($main);
+    padding: 20px;
+    @extend %boxshadow;
+    p {
+      background-color: white;
+      padding: 5px;
+      border: dotted $main 3px;
+      font-weight: bold;
+      
+    }
+    input {
+      @extend %centeredObj;
+      margin: 0 auto;
+    }
+  }
+ 
+}
+button {
+    @extend %centeredObj;  
+    font-weight: bold;
+    background-color: $main;
+    cursor: pointer;
+    padding: 9px 10px;
+    border: 1px solid;
+    margin: 0 auto;
+    text-align: center;
+    @extend %boxshadow;
+      &:hover {
+        background-color: darken($main, 20%);
+      }
+      &:active {
+         background-color: lighten($main, 10%);
+         -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.8) ;
+         box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.8) ;
+         }
+    }
