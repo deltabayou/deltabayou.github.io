@@ -118,8 +118,8 @@ function generateScent() {
     } // determine which radio button is selected; set empty arr equal to that variable
     var randIndex1 = Math.floor(Math.random() * Math.floor(arr.length)); // generate random number
     var randIndex2 = exclusionScent(randIndex1, arr); // run exclusion function; generate random number, excluding randIndex1 in the list "arr"
-  var scent1 = $('#scent1');
-  var scent2 = $('#scent2');
+  var scent1 = $('.scent1');
+  var scent2 = $('.scent2');
   scent1.fadeOut(500, function() {
     scent1.text(arr[randIndex1]);
     scent1.fadeIn(500);
