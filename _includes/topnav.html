@@ -15,7 +15,7 @@
             <ul class="nav navbar-nav">
                 <li {% if page.sectionid=='books' %} class="active" {% endif %}><a href="{{ "/books/" | prepend: site.baseurl }}">Books</a></li>
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a></li>
-                <li class="active"> <a href="{{ /personalityGen/ | prepend: site.baseurl }}">Generators</a></li>
+                <li {% if page.sectionid=='personalityGen' %} class="active" {% endif %}> <a href="{{ "/personalityGen/" | prepend: site.baseurl }}">Free Generators</a></li>
             </ul>
             <div class="navbar-right">
                 <form class="navbar-form navbar-left">
