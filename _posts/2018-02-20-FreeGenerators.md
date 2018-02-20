@@ -2,6 +2,7 @@
 layout: post
 date: 2018-02-20T00:00:00.000Z
 author: Scarlett Larouge
+title: Free Generators
 tag: Website update
 ---
 I’m excited to finally reveal a project that I have had in the works for awhile--[generators for character personality traits and scents.](http://www.scarlettlarouge.com/personalityGen)
