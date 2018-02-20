@@ -1,33 +1,36 @@
-$main: #d8aaed;
+$pgenMain: #d8aaed;
 %centeredObj {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 %boxshadow {
-   -webkit-box-shadow: 3px 3px 0 0 rgba(0,0,0,0.8) ;
+   -webkit-box-shadow: 3px 3px 0 0 rgba(0,0,0,0.8);
     box-shadow: 3px 3px 0 0 rgba(0,0,0,0.8) ;
 }
-
-#personalityGenerator  {
+#personalityGenerator, #scentGenerator  {
+    text-shadow: 1px 1px 0 rgba(128,128,128,0.8) ;
   margin: 0 auto;
   @extend %centeredObj;  
   div {
     float:left;
     margin: 20px;
-    background-color: complement($main);
     padding: 20px;
     @extend %boxshadow;
     p {
       background-color: white;
       padding: 5px;
-      border: dotted $main 3px;
+      border: dotted $pgenMain 3px;
       font-weight: bold;
       
     }
-    input {
+    input[name="character"] {
       @extend %centeredObj;
       margin: 0 auto;
+    }
+    input[name="gender"] + label {
+      text-align: center;
+      
     }
   }
  
@@ -35,7 +38,7 @@ $main: #d8aaed;
 button {
     @extend %centeredObj;  
     font-weight: bold;
-    background-color: $main;
+    background-color: $pgenMain;
     cursor: pointer;
     padding: 9px 10px;
     border: 1px solid;
@@ -43,11 +46,45 @@ button {
     text-align: center;
     @extend %boxshadow;
       &:hover {
-        background-color: darken($main, 20%);
+        background-color: darken($pgenMain, 20%);
       }
       &:active {
-         background-color: lighten($main, 10%);
+         background-color: lighten($pgenMain, 10%);
          -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.8) ;
          box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.8) ;
          }
     }
+
+
+input[name="character"] {
+  display: inline-block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  padding: 10px 20px;
+  border: 1px solid #b7b7b7;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  -webkit-box-shadow: 2px 2px 2px 0 rgba(0,0,0,0.2) inset;
+  box-shadow: 2px 2px 2px 0 rgba(0,0,0,0.2) inset;
+  -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  &:hover {
+      border: 1px solid #a3a3a3;
+  -webkit-transition: all 100ms cubic-bezier(0.42, 0, 0.58, 1);
+  -moz-transition: all 100ms cubic-bezier(0.42, 0, 0.58, 1);
+  -o-transition: all 100ms cubic-bezier(0.42, 0, 0.58, 1);
+  transition: all 100ms cubic-bezier(0.42, 0, 0.58, 1);
+  }
+  &:focus {
+     border: 1px solid #018dc4;
+  -webkit-box-shadow: 4px 4px 4px 0 rgba(0,0,0,0.2) inset;
+  box-shadow: 4px 4px 4px 0 rgba(0,0,0,0.2) inset;
+  -webkit-transition: all 50ms cubic-bezier(0.42, 0, 0.58, 1);
+  -moz-transition: all 50ms cubic-bezier(0.42, 0, 0.58, 1);
+  -o-transition: all 50ms cubic-bezier(0.42, 0, 0.58, 1);
+  transition: all 50ms cubic-bezier(0.42, 0, 0.58, 1);
+  }
+}
