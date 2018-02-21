@@ -86,7 +86,7 @@ input[name="character"] {
   }
 }
 
-@media only screen and (max-width:540px) {
+@media screen and (max-width:540px) {
 #personalityGenerator, #scentGenerator, #personalityGenerator div input[name="character"], #scentGenerator div input[name="character"], button {
     display: block;
 }}
