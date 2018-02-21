@@ -85,3 +85,8 @@ input[name="character"] {
   transition: all 50ms cubic-bezier(0.42, 0, 0.58, 1);
   }
 }
+
+@media only screen and (max-width:540px) {
+#personalityGenerator, #scentGenerator, #personalityGenerator div input[name="character"], #scentGenerator div input[name="character"], button {
+    display: block;
+}}
