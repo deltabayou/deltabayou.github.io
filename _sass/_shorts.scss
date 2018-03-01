@@ -1,0 +1,30 @@
+div.shortStory {
+	h1 {
+		text-align: center;
+		font-size: 4em;
+		margin: 3em 0 1em 0;
+		font-family: "Crimson Text", Athelas, Georgia, serif;
+		font-weight: bold;
+		}
+	div {
+		width: auto;
+		max-width: 680px;
+		padding: 0 15px;
+		margin: 0 auto;
+		margin-bottom: 4em;
+		p {
+			font-size: 1.6em;
+			line-height: 1.5;
+			font-family: "Crimson Text", Athelas, Georgia, serif;
+		}
+	}
+}
+div.stickyFooter {
+		position: fixed;
+		height: 3em;
+		bottom: 0;
+		width: 100%;
+		background-color: $gray-lighter;
+		text-align: center;
+		z-index: 1;
+	}
