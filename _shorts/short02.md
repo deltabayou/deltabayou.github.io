@@ -7,7 +7,7 @@ status: Available Now!
 literotica: https://www.literotica.com/s/the-officers-temptation
 smashwords: https://www.smashwords.com/books/view/798124
 payhip: https://payhip.com/b/8RTz
-amazon: #
+amazon: https://www.amazon.com/dp/B07B6424ZX/
 ---
 
 
