@@ -8,7 +8,7 @@ tag: Free short
 
 ![The Officer's Temptation](/img/officerstemptation.jpg)
 
-# Chapter 2
+## Chapter 2
 
 Mr. Croft, the butler, started in surprise when Marlowe let himself in through the servants’ door that led to the kitchens. “Your mother said you would be gone to town, sir.” Though he raised an eyebrow at Marlowe’s unkempt appearance-- hair wild from the wind and damp from the light rain that had accosted him on his way home, coat and boots splattered with mud, he didn’t ask where he had been. “Shall I send your valet to your rooms?”
 

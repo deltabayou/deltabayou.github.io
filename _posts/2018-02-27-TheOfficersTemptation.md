@@ -8,7 +8,7 @@ tag: Free short
 
 ![The Officer's Temptation](/img/officerstemptation.jpg)
 
-# Chapter 1
+## Chapter 1
 
 Marlowe hummed quietly as he walked, feet springing against the damp earth. His dark hair hung in thick curls against his forehead and the air was heavy in his lungs, still ripe with the smell of the afternoon rain and the fresh spice of the birch trees that lined the road. He was glad that he had waited in the tavern for the rain to pass. It had turned out to be quite the downpour. He was now late, of course, but he was willing to risk his father’s irritation and his mother’s disapproval. And as for the girl… well, he had disappointed women before.
 
