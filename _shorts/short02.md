@@ -1,13 +1,10 @@
 ---
-title: The Officer’s Temptation
+title: The Officer’s Temptation, Chapter 1
 permalink: /shorts/theofficerstemptation
 imgpath: /img/officerstemptation.jpg
 series: shorts
 status: Available Now!
 literotica: https://www.literotica.com/s/the-officers-temptation
-smashwords: https://www.smashwords.com/books/view/798124
-payhip: https://payhip.com/b/8RTz
-amazon: https://www.amazon.com/dp/B07B6424ZX/
 ---
 
 
