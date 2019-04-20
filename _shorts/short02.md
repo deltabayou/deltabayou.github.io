@@ -14,7 +14,7 @@ Marlowe hummed quietly as he walked, feet springing against the damp earth. His 
 
 He should have taken a carriage perhaps, or even a horse. But he had wanted to stretch his legs, to feel the solid earth beneath his feet, to walk the roads of his boyhood. And to forget, of course. To pretend the war had never happened, that he had never seen the blood or smelt it against the baking earth. It was odd to be here now, to be home again, where the scent of wildflowers tickled his nose instead of the scent of unwashed men.
 
-He wondered, somewhere at the back of his mind, if that wasn’t the real reason he had gone into town on foot. He had felt the humid languor in the air before leaving. And when the first light drops had fallen like small pins in the streets, he could have rushed home before the downpour. But perhaps he had lingered on ulterior motives-- to avoid the whole meeting. To keep pretending that he was simply himself, not a soldier returned home, distinguished, and now in sudden need, according to his family, of a wife.
+He wondered, somewhere at the back of his mind, if that wasn’t the real reason he had gone into town on foot. He had felt the humid languor in the air before leaving. And when the first light drops had fallen like small pins in the streets, he could have rushed home before the downpour. But perhaps he had lingered on ulterior motives--to avoid the whole meeting. To keep pretending that he was simply himself, not a soldier returned home, distinguished, and now in sudden need, according to his family, of a wife.
 
 It wasn’t that Marlowe wished to disappoint his parents. It was just that he wasn’t interested in what they wanted. The poor girl they were trying to fling at him, a certain Miss Katherine Jennings... It wasn’t her fault, either. He did not want a wife; he wanted time. But to try explaining that to his parents… they simply didn't understand. 
 
@@ -48,7 +48,7 @@ He took it briefly. “Lieutenant Marlowe Hughes.” He straightened his shoulde
 
 “Might I accompany you home, Lady Balfrey?” He knew her name now, of course. She would be the wife of the neighboring lord. They would have been married while he was away, hence how she had escaped his acquaintance until now. He ransacked his mind for memories of Lord Balfrey, but though they were acquainted, they had never been close. Nicholas Balfrey had been a different sort of boy than Marlowe. He was quiet and bookish while Marlowe preferred to explore and ride. He wondered what such a man would feel about having his wife appear from the bushes like a wanton dryad, flushed and rumpled as if she had been rolling around with a satyr just there behind the trees… But no, he must quell that line of thinking.
 
-She tilted her head at him, and there was an odd look in her eye, as if she could see the licentious thoughts that had flashed through his mind. The high color was beginning to fade from her cheeks and she looked thoughtful now, less agitated. “Yes, you may, Lieutenant.” She handed him the reins. “But you mind this horrid beast. I’ve had enough of him today.” Her voice had dropped-- the pitch low and sultry.
+She tilted her head at him, and there was an odd look in her eye, as if she could see the licentious thoughts that had flashed through his mind. The high color was beginning to fade from her cheeks and she looked thoughtful now, less agitated. “Yes, you may, Lieutenant.” She handed him the reins. “But you mind this horrid beast. I’ve had enough of him today.” Her voice had dropped--the pitch low and sultry.
 
 He guided the horse, which seemed docile enough now as they began the path towards her estate. “What exactly happened with this poor fellow, Lady Balfrey?”
 
@@ -98,7 +98,7 @@ He had been unforgivably rude to Miss Jennings, barely paid her any mind at all.
 
 Arabella. The name echoed through his mind, through his body. Conveniently, the echo seemed to ignore her surname. The fact that she was married at all. The fact that Marlowe should not be thinking about her in such ways. Not her sparkling eyes or rounded mouth or the loose strands of hair that had framed her rosy cheeks. Certainly, he shouldn't have been thinking about the press of her breasts against her riding jacket, nor the hint of hip implied by the swaying lines of her skirt.
 
-He had left his card the very next day, of course-- ridden up to the house as early as was socially acceptable. He had paused at the gates, but steeled himself with the knowledge that he had visited the house before; it was not so odd to call on neighbors who had recently returned to town, there was no ulterior motive.
+He had left his card the very next day, of course--ridden up to the house as early as was socially acceptable. He had paused at the gates, but steeled himself with the knowledge that he had visited the house before; it was not so odd to call on neighbors who had recently returned to town, there was no ulterior motive.
 
 The house had been a bustle of energy. He had seen it even from the relative quiet of the hall. Furniture was being moved around, the place was in disarray. He’d given his card quickly to the butler and then left, although he had been desperate to know if she had been at home. Had she seen him ride up from the windows? Had she regretted her impulsive informality? Had she been frightened by what she had seen in him?
 

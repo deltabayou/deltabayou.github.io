@@ -16,7 +16,7 @@ The coffee was hot and scalded his throat, but it did help clear his mind. He ha
 
 His father was flipping through the newspaper. “I do believe we’re in for quite the downpour today,” he mentioned offhandedly. “The leg’s been twinging. You won’t be able to take your afternoon ride, Marlowe.” 
 
-Marlowe had always disbelieved that his father’s leg--which had sustained some injury decades ago-- was capable of telling the weather. But since his own injury to his hand… well, perhaps it did feel a bit stiffer than usual today. He wondered if his perspective of the matter was only further clouded by his bleak mood, which was worsening now that he was beginning to despair of ever seeing Arabella again. He worried. Had she had said something untoward to her husband? Would Lord Nicholas Balfrey come to his door any day now, demanding that he satisfy the slight against his wife’s honor?
+Marlowe had always disbelieved that his father’s leg--which had sustained some injury decades ago--was capable of telling the weather. But since his own injury to his hand… well, perhaps it did feel a bit stiffer than usual today. He wondered if his perspective of the matter was only further clouded by his bleak mood, which was worsening now that he was beginning to despair of ever seeing Arabella again. He worried. Had she had said something untoward to her husband? Would Lord Nicholas Balfrey come to his door any day now, demanding that he satisfy the slight against his wife’s honor?
 
 His thoughts dispelled as a footman arrived carrying the morning’s correspondence on a silver tray. There was nothing for him. He tried not to let his disappointment show and took a long drink from his cup, on which he almost choked when his mother made a high pitched squeal. 
 

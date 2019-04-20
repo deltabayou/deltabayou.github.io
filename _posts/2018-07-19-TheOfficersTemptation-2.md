@@ -10,7 +10,7 @@ tag: Free short
 
 ## Chapter 2
 
-Mr. Croft, the butler, started in surprise when Marlowe let himself in through the servants’ door that led to the kitchens. “Your mother said you would be gone to town, sir.” Though he raised an eyebrow at Marlowe’s unkempt appearance-- hair wild from the wind and damp from the light rain that had accosted him on his way home, coat and boots splattered with mud, he didn’t ask where he had been. “Shall I send your valet to your rooms?”
+Mr. Croft, the butler, started in surprise when Marlowe let himself in through the servants’ door that led to the kitchens. “Your mother said you would be gone to town, sir.” Though he raised an eyebrow at Marlowe’s unkempt appearance--hair wild from the wind and damp from the light rain that had accosted him on his way home, coat and boots splattered with mud, he didn’t ask where he had been. “Shall I send your valet to your rooms?”
 
 Marlowe yanked his boots off, leaving them by the door along with the messy heap of his greatcoat. “Yes, thank you, Mr. Croft. Is there any supper?”
 
@@ -252,13 +252,13 @@ She looked at him from under her long lashes, green eyes burning. Her thighs cle
 
 It sent him over the edge. His whole body seemed to tense up and then suddenly break with release as she rode him. He gasped, eyes shut tight as he wove the flood of his release, filling her with his seed. She sank against his chest, breathing heavily as his heart gradually slowed. “My husband is coming back next week,” she said softly. “But I want to see you. I don’t think I can stop.”
 
-“I can’t either,” he said, choosing to ignore the unfortunate mention of her husband. He paused, pulling her close to his chest. “My family is thinking of touring the continent-- Italy. I may be gone for a few weeks.”
+“I can’t either,” he said, choosing to ignore the unfortunate mention of her husband. He paused, pulling her close to his chest. “My family is thinking of touring the continent--Italy. I may be gone for a few weeks.”
 
 “No,” she said. “I couldn’t bear it! I need you to be near.”
 
 He kissed the top of her head. “We will figure something out, my dove. Perhaps I will find some way to extricate myself from their plans.”
 
-She hesitated. “Marlowe, you know my hus-- you know Nicholas, correct? Your family is acquainted.”
+She hesitated. “Marlowe, you know my hus--you know Nicholas, correct? Your family is acquainted.”
 
 He tensed. “Yes.”
 
