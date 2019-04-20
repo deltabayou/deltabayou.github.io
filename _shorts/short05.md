@@ -21,7 +21,7 @@ It was not the same intimate parlour where she had taken him before. This was a 
 
 Then he saw her. Arabella. Her face was already trained on his, pale green eyes wide and serious, mouth soft and seductive. She was dressed in pale blue, with the light of the candles reflecting in her golden curls. She had looked so much in harmony with the room that he hadn't noted her at first. She belonged here, it was clear, this mistress of the golden hall. She was walking towards him now in small dainty steps, followed by a dark stranger at her elbow.
 
-But of course, it was not a stranger after all. It was only Nicholas- Lord Balfrey, her husband. He had changed only a little since Marlowe had seen him last. His face was the same, a little long with a slightly pointed chin, a broad nose, and dark eyes that were both kind and sad. He had always had the look of a mournful cow, Marlowe thought unkindly.
+But of course, it was not a stranger after all. It was only Nicholas--Lord Balfrey, her husband. He had changed only a little since Marlowe had seen him last. His face was the same, a little long with a slightly pointed chin, a broad nose, and dark eyes that were both kind and sad. He had always had the look of a mournful cow, Marlowe thought unkindly.
 
 Nicholas's wide mouth broke into an unexpected smile as he clasped him by the forearm in a friendly gesture. "Marlowe! What a pleasure to see you again! Or is it Lieutenant Hughes, now?"
 
@@ -65,7 +65,7 @@ They joined the others on the settees and the conversation grew stilted as the p
 
 There had been no question of sitting near Arabella at dinner, as he did not rank highly enough for that honor, but he had still managed a nice enough time, chatting pleasantly with Miss Jennings and her father who were both near to him. He even found the elderly Lady Keating to be a surprising wit. And of course, there was Arabella. Just be nearing her, basking in her presence was enough to make the dinner worth his while. He drank in glances of her between bites, between sips, noticing that she seemed to be watching him the whole while, a secret lurking in her eyes as she chatted with the others.
 
-It was not until after dinner that he managed a moment alone with her. It was carefully contrived. She had led the procession from the dining room- the women following her to the sitting room to chat while the gentlemen went for a smoke and a drink in Lord Balfrey's study. Marlowe had dawdled behind the pack of gentlemen. And Arabella was lingering at the door after the ladies had filed into the room ahead of her.
+It was not until after dinner that he managed a moment alone with her. It was carefully contrived. She had led the procession from the dining room--the women following her to the sitting room to chat while the gentlemen went for a smoke and a drink in Lord Balfrey's study. Marlowe had dawdled behind the pack of gentlemen. And Arabella was lingering at the door after the ladies had filed into the room ahead of her.
 
 His heart beat faster at her scent as he drew near. "I have an idea," she whispered as he walked by. "Play along when it is time."
 
@@ -145,13 +145,13 @@ They went as quickly as they could back through the woods and field. As they nea
 
 He did as instructed and the two of the crept across the lawns to the small building. The smell of the garden's flowers was thick in his nose. The air around them seemed to be knitting together. There was a hint of rain coming, he thought. A slight moisture building around them as Arabella fumbled at her pockets for a moment and then produced a small key, which she used to undo the door. He went inside, carefully stepping over the threshold. Arabella followed him in.
 
-The scent of fresh earth tickled his nose and the air was hot and close, the little stone chamber having stored up all of the heat of the sun during the day. It was bordering on stifling in the small space and everything seemed too loud in the dead air- the rustle of her dress as she turned, the click of the latch as it settled into its place. Even his own breathing was too loud, as was her voice, scratching against his ear.
+The scent of fresh earth tickled his nose and the air was hot and close, the little stone chamber having stored up all of the heat of the sun during the day. It was bordering on stifling in the small space and everything seemed too loud in the dead air--the rustle of her dress as she turned, the click of the latch as it settled into its place. Even his own breathing was too loud, as was her voice, scratching against his ear.
 
 "Light the lamp."
 
 He fumbled with his tinderbox for a moment, wincing at the sound of the lid and then the dry catch as he lit a flame for the lantern. The acrid smell of smoke joined the scent of musty earth and Arabella's perfume as the fire danced to light, beating away the deep shadows.
 
-He could see now that it was indeed a small space, made even smaller by the pitch of the sharply-angled roof. There was a console table, battered and sagging against the wall. Various wicker baskets hung from the ceiling, stuffed with rags and other bric-a-brac. Gardening tools were hung on pegs against the walls, others heaped in piles in the corners. There were no windows, for which he was grateful- only a few small cracks in the wooden door worried him. Surely the light would creep out, alerting anyone who might be nearby to their presence.
+He could see now that it was indeed a small space, made even smaller by the pitch of the sharply-angled roof. There was a console table, battered and sagging against the wall. Various wicker baskets hung from the ceiling, stuffed with rags and other bric-a-brac. Gardening tools were hung on pegs against the walls, others heaped in piles in the corners. There were no windows, for which he was grateful--only a few small cracks in the wooden door worried him. Surely the light would creep out, alerting anyone who might be nearby to their presence.
 
 He set the lantern on the table and turned to her. He was sure the tension would show on his face, that she would see it and think that he was having second thoughts. He watched her carefully.
 
@@ -169,7 +169,7 @@ And then she dropped to her knees. "What are you doing?" he gasped.
 
 She was facing his member, studying it with a vicious intensity as she held it in her hand. He was entirely in her power now, even her breath against his skin was enough to make him shake with longing. And then she suddenly shot out her tongue, flicking against his head as quick as a little snake. He struggled to contain a groan of pleasure as he wrapped her fingers in her hair. "Wherever did you learn this?" he hissed. It was really not proper, what she was doing... But he felt the questions dissolving as she continued, not bothering to stop to answer.
 
-Her lips were kissing the tip of his manhood, and she was taking the head of him into her rosy mouth. He struggled against the sensation for a moment, thinking to stop her... to tell her that it was too much, too dangerous, but he couldn't. He wanted her now, consequences be damned. His world narrowed into the vision of her blonde head, the impropriety of it forgotten as his thoughts faded into instinct- coarse and base instinct and desire.
+Her lips were kissing the tip of his manhood, and she was taking the head of him into her rosy mouth. He struggled against the sensation for a moment, thinking to stop her... to tell her that it was too much, too dangerous, but he couldn't. He wanted her now, consequences be damned. His world narrowed into the vision of her blonde head, the impropriety of it forgotten as his thoughts faded into instinct--coarse and base instinct and desire.
 
 He struggled against the animalistic urge, wanting nothing more than to shove his whole length immediately into her hot, sweet lips, to fuck her beautiful mouth as he suddenly longed to fuck her cunt. The feelings were enough to break him, the visions of him, holding her head still, pulling down those beautiful, perfect piles of curls, as he slammed in and out of her small mouth, but he resisted.
 
@@ -179,7 +179,7 @@ His fingers slipped against her stockings and then the smooth expanse of skin on
 
 She made the most delicious sounds as she rubbed her. Her legs were spread for him now, braced against the table, and he could see her pink hole, shining with arousal under her slick curls while his fingers dipped in and out. Her back was arched against the wall, skirts yanked all the way up, her head back and eyes closed. He bent to her and bit her neck, as he guided his cock into her.
 
-She yelped and grabbed him, wrapping her legs around him as his fat cock spread her. "Oh Marlowe," she moaned. Then her language descended into something more primal as he moved in and out of her, fucking her roughly. Not words- only scraps of them, coarse, throaty moans and gasps and sighs. He scarcely recognized himself, now, transformed as he was by his lust. He wanted to possess her, debase her. He bit at her neck, sucked her supple skin as he penetrated her over and over again, grabbing at her waist, her breasts, her neck with abandon.
+She yelped and grabbed him, wrapping her legs around him as his fat cock spread her. "Oh Marlowe," she moaned. Then her language descended into something more primal as he moved in and out of her, fucking her roughly. Not words--only scraps of them, coarse, throaty moans and gasps and sighs. He scarcely recognized himself, now, transformed as he was by his lust. He wanted to possess her, debase her. He bit at her neck, sucked her supple skin as he penetrated her over and over again, grabbing at her waist, her breasts, her neck with abandon.
 
 Distantly, he was aware of the cadence building in her low moans of pleasure, of the grunting he made with his exertion, of the heavy rocking of the table against the wall. But he didn't care. He was buried inside of Arabella, his love, his muse. And then she cried out particularly sharply and threw her head against his shoulder. Her sweat was soaking his neck as she tightened her grip around his back, driving him all the way inside of her.
 
