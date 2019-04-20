@@ -1,3 +1,10 @@
+---
+permalink: /shorts/theofficerstemptation-3
+imgpath: /img/officerstemptation.jpg
+series: shorts
+status: Available Now!
+literotica: 'https://www.literotica.com/s/the-officers-temptation-ch-03'
+---
 ## A Summer Storm
 
 A week and a half after his tryst with Arabella in the woods, Marlowe was sitting down to breakfast with his mother and father. The light filtering in through the tall, rounded windows was dim and leaden, which Marlowe thought was an appropriate setting for his mood. He unhappily served himself some toast and coffee, staring into the black liquid as his mother prattled on about some fabric pattern she had seen in the shops that morning.
