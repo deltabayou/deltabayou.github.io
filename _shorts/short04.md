@@ -5,7 +5,7 @@ series: shorts
 status: Available Now!
 literotica: 'https://www.literotica.com/s/the-officers-temptation-ch-03'
 published: true
-title: 'The Officer''s Temptation, Chapter 3'
+title: The Officer’s Temptation, Chapter 3
 ---
 
 ## A Summer Storm

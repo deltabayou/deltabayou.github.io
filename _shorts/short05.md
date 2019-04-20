@@ -1,5 +1,5 @@
 ---
-title: 'The Officer''s Temptation, Chapter 4'
+title: The Officer’s Temptation, Chapter 4
 permalink: /shorts/theofficerstemptation-4
 imgpath: /img/officerstemptation.jpg
 series: shorts
