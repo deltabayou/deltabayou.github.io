@@ -1,11 +1,13 @@
 div.shortStory {
-	h1 {
+	h1,h2 {
 		text-align: center;
-		font-size: 4em;
 		margin: 3em 0 1em 0;
 		font-family: "Crimson Text", Athelas, Georgia, serif;
 		font-weight: bold;
 		}
+	// h1 {
+	// 	font-size: 4em;
+	// }
 	div {
 		width: auto;
 		max-width: 680px;
