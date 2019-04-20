@@ -1,10 +1,11 @@
 ---
-title: The Officer's Temptation, Chapter 4
-permalink: /shorts/theofficerstemptation-2
+title: 'The Officer''s Temptation, Chapter 4'
+permalink: /shorts/theofficerstemptation-4
 imgpath: /img/officerstemptation.jpg
 series: shorts
 status: Available Now!
-literotica: https://www.literotica.com/s/the-officers-temptation-ch-04
+literotica: 'https://www.literotica.com/s/the-officers-temptation-ch-04'
+published: true
 ---
 
 ## The Dinner Party
@@ -191,4 +192,3 @@ The smooth expanse of her wriggling tongue, the silky press of her lips, the sli
 When he was done, he gasped, feeling suddenly weak as he pulled out of her mouth and helped her rise. The scent of the thick air was now thick with the animalistic musk of their sweat. She clasped to him, trembling and he wrapped his arms around her.
 
 "Wherever did you learn that?" he murmured in her ear. But she froze in panic against his body. That was when he realized it too. There were voices from somewhere outside. He blew out the light of the lantern in a panic, and they stood, breathing heavily together in the complete darkness. Waiting.
-
