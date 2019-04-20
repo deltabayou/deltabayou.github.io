@@ -52,10 +52,22 @@ defaults:
     seo:
       type: "WebPage"
 
+- scope: 
+    path: _shorts
+    type: shorts
+  values: 
+    layout: shorts
+    sectionid: shorts
+    seo: 
+      type: "WebPage"
+
 collections:
   books:
     permalink: /:collection/:path/
     output: true
   posts:
     permalink: /blog/:year/:month/:day/:title/
+    output: true
+  shorts: 
+    permalink: /:path/
     output: true

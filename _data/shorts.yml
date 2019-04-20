@@ -1,0 +1,9 @@
+#- title: Books
+  #books:
+  #- store
+
+- title: Short Stories
+  shorts:
+  - shorts/thestagking
+  - shorts/theofficerstemptation
+  - shorts/theofficerstemptation-2

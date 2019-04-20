@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{% if page.title=="Short Stories" %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 style="font-family: 'Marta', serif; font-size: 48px; text-align: center;">{{ page.title }}</h1>
+            <div>{{ content }}</div>
+            <hr>
+            {% include section_nav.html %}
+        </div>
+
+    </div>
+</div>
+
+
+
+<!--   <div>
+    {{ content }}
+  </div> -->
+  {% else %}
+<div class="col-md-12 shortStory">
+    <h1>{{ page.title }}</h1>
+    <div>{{content}}</div>
+</div>
+<div class="stickyFooter">
+  <div class="btn-group" role="group" aria-label="...">
+    <a href="{{ page.payhip }}"><button title="Download as EPUB on PayHip" type="button" class="btn btn-default"><span class="fa fa-heart" aria-hidden="true"></span></button></a>
+    <a href="{{ page.amazon }}"><button title="Download as Kindle file on Amazon" type="button" class="btn btn-default"><span class="fa fa-amazon" aria-hidden="true"></span></button></a>
+    <a href="{{ page.literotica }}"><button title="Read on Literotica" type="button" class="btn btn-default"><span class="fa fa-fire" aria-hidden="true"></span></button></a>
+    <a href="{{ page.smashwords }}"><button title="Download as EPUB on Smashwords" type="button" class="btn btn-default"><span class="fa fa-book" aria-hidden="true"></span></button></a>
+  </div>
+</div>
+{% endif %}
