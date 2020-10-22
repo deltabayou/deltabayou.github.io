@@ -1,8 +1,6 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-gem "jekyll", "3.6.3"
-
 # to use GitHub Pages
 # gem "github-pages", group: :jekyll_plugins
 
@@ -12,6 +10,8 @@ group :jekyll_plugins do
    gem "jekyll-sitemap"
    gem "jekyll-redirect-from"
    gem "jekyll-seo-tag"
+   gem "kramdown", ">= 2.3.0"
+
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
