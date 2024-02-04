@@ -42,7 +42,9 @@ GEM
     kramdown (2.3.1)
       rexml
     liquid (4.0.3)
-    listen (3.2.1)
+      rb-fsevent (~> 0.10, >= 0.10.3)
+      rb-inotify (~> 0.9, >= 0.9.10)
+    listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
@@ -73,7 +75,7 @@ DEPENDENCIES
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.4.1p111
+   ruby 3.2.1p31
 
 BUNDLED WITH
    2.1.4
